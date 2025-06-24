@@ -49,11 +49,11 @@ const date = moment().format('DD/MM/YYYY');
  5. It will load for sometime then pk tech will sent A long session to your inbox on whatsapp at your own number
  6. Copy that long session and sent it to your deployer.
  
- 💻enjoy💻Nexus🧸ai
+ 💻enjoy💻Horla🧸ai
  `;
     
 let menuMsg = `
-> Made by : © PKDRILLER
+> Made by : © HORLAPOOKIE 
 `;
 
    var lien = mybotpic();
@@ -125,13 +125,13 @@ const date = moment().format('DD/MM/YYYY');
    *Pk tech IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/pkdriller/NEXUS-AI 
+> https://github.com/horlapookie/NEXUS-AI 
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
+> https://whatsapp.com/channel/0029Vb6AZrY2f3EMgD8kRQ01
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/pkdriller/pkdriller-INFO⁠
+> https://github.com/horlapookie/pkdriller-INFO⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❒⁠⁠⁠⁠ *DEV* : *Ibrahim Adams*
@@ -139,7 +139,7 @@ const date = moment().format('DD/MM/YYYY');
   `;
     
 let menuMsg = `
-     PK DRILLER DEV
+     HORLA POOKIE
 
 ❒────────────────────❒`;
 
