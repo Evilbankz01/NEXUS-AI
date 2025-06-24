@@ -1,6 +1,6 @@
 {
-  "name":"NEXUS-AI",
-  "description":"Best whatsapp bot💥 developed by   Pkdriller 🇰🇪 ",
+  "name":"HORLA-AI",
+  "description":"Best whatsapp bot💥 developed by   Horlapookie 🇳🇬 ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/pdhcob.jpeg",
   "repository":"https://github.com/ekitale/maths-project",
@@ -58,7 +58,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"NEXUS-AI",
+      "value":"HORLA-AI",
       "required":false
 
     } ,
