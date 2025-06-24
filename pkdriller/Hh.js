@@ -24,7 +24,7 @@ zokou({
   'nomFichier': __filename
 }, async (_0x3ebb47, _0xff3268, _0x48dbdb) => {
   try {
-    const _0x1583f8 = await fetch("https://api.github.com/repos/Pkdriller01/NEXUS-AI");
+    const _0x1583f8 = await fetch("https://api.github.com/repos/horlapookie/NEXUS-AI");
     const _0x498987 = await _0x1583f8.json();
     if (_0x498987) {
       const _0x491941 = {
@@ -34,7 +34,7 @@ zokou({
         'owner': _0x498987.owner.login
       };
       const _0x1ffe6b = new Date(_0x498987.created_at).toLocaleDateString("en-GB");
-      const _0x4ee1b4 = "*𝐍𝐄𝐗𝐔𝐒-𝐀𝐈*\n\n_________● *𝐍𝐄𝐗𝐔𝐒-𝐀𝐈* ●____________\n|💥 *ʀᴇᴘᴏsɪᴛᴏʀʏ:* " + _0x498987.html_url + "\n|🌟 *sᴛᴀʀs:* " + _0x491941.stars + "\n|🍽 *ғᴏʀᴋs:* " + _0x491941.forks + "\n|⌚️ *ʀᴇʟᴇᴀsᴇ ᴅᴀᴛᴇ:* " + _0x1ffe6b + "\n|🕐 *ᴜᴘᴅᴀᴛᴇ ᴏɴ:* " + _0x491941.lastUpdate + "\n|👨‍💻 *ᴏᴡɴᴇʀ:* *HORLAPOOKIE*\n|💞 *ᴛʜᴇᴍᴇ:* *HORLA-AI*\n|🥰*ᴏɴʟʏ ɢᴏᴅ ᴄᴀɴ ᴊᴜᴅɢᴇ ᴍᴇ!👑*\n__________________________________\n            *ᴍᴀᴅᴇ ᴡɪᴛʜ HORLA-AI*";
+      const _0x4ee1b4 = "*𝐇𝐎𝐑𝐋𝐀-𝐀𝐈*\n\n_________● *𝐇𝐎𝐑𝐋𝐀-𝐀𝐈* ●____________\n|💥 *ʀᴇᴘᴏsɪᴛᴏʀʏ:* " + _0x498987.html_url + "\n|🌟 *sᴛᴀʀs:* " + _0x491941.stars + "\n|🍽 *ғᴏʀᴋs:* " + _0x491941.forks + "\n|⌚️ *ʀᴇʟᴇᴀsᴇ ᴅᴀᴛᴇ:* " + _0x1ffe6b + "\n|🕐 *ᴜᴘᴅᴀᴛᴇ ᴏɴ:* " + _0x491941.lastUpdate + "\n|👨‍💻 *ᴏᴡɴᴇʀ:* *HORLAPOOKIE*\n|💞 *ᴛʜᴇᴍᴇ:* *HORLA-AI*\n|🥰*ᴏɴʟʏ ɢᴏᴅ ᴄᴀɴ ᴊᴜᴅɢᴇ ᴍᴇ!👑*\n__________________________________\n            *ᴍᴀᴅᴇ ᴡɪᴛʜ HORLA-AI*";
       await _0xff3268.sendMessage(_0x3ebb47, {
         'image': {
           'url': "https://files.catbox.moe/y6do01.jpeg"
